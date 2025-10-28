@@ -30,15 +30,15 @@ username:password:last:first:groups
 
 # Explanation of Each Field
 
-Username – The name of the account to be created. Example: user04
+- `Username` – The name of the account to be created. Example: user04
 
-Password – The password for that user. Example: pass04
+- `Password` – The password for that user. Example: pass04
 
-Last – The user's last name, used for GECOS information in the system. Example: Last04
+- `Last` – The user's last name, used for GECOS information in the system. Example: Last04
 
-First – The user's first name. Example: First04
+- `First` – The user's first name. Example: First04
 
-Groups – A list of one or more groups that the user should belong to. Commas separate multiple groups. Example: group01,group02
+- `Groups` – A list of one or more groups that the user should belong to. Commas separate multiple groups. Example: group01,group02
 
 If a line begins with a #, it is considered a comment and will not be processed. This is useful for temporarily disabling user entries without deleting them.
 
